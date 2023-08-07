@@ -14,9 +14,9 @@
 
 <!-- ![Snake animation](https://github.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/blob/output/github-contribution-grid-snake.svg) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
