@@ -22,7 +22,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 ```python
- print("Hello ...  Iam Osama Abd EL Mohsen From Egypt a final year undergraduate from Mansoura Unvirsty ")
+ print("Hello ...  Iam Osama Abd EL Mohsen From Egypt a final year undergraduate from Mansoura University ")
 ```
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
