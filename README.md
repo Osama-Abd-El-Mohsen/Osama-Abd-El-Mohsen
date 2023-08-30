@@ -132,7 +132,6 @@
 </p>
 
 
-a
 <h1> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h1>
 
 [![Behance](https://img.shields.io/badge/Behance-151A22?style=for-the-badge&logo=behance)](https://behance.net/Osama_Abd_ElMoh7sen) 
