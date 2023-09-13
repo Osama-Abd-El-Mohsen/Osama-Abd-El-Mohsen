@@ -11,6 +11,7 @@
 </p> 
 
 
+
 <!-- ![Snake animation](https://github.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/blob/output/github-contribution-grid-snake.svg) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/output/github-contribution-grid-snake-dark.svg">
