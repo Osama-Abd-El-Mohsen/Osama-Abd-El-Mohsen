@@ -86,7 +86,9 @@
 
 <h1> 🥸 Taken Courses  </h1>
 
-- IMT Online Diploma AVR
+- NTI Online Diploma AVR
+- Numpy
+- Pandas
 - Eng OsamaElzero Python (Youtube)
 - Eng OsamaElzero Git&github (Youtube)
 - MYSQL From Giraffe Academy (Youtube)
