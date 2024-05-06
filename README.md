@@ -4,6 +4,7 @@
   I'm Osama Abd El Mohsen
 </h1>
 
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
