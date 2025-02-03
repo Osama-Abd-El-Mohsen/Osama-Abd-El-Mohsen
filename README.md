@@ -49,13 +49,13 @@
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</h1> 
 
-### Programming Languages :
+### 🧑‍💻 Programming Languages :
 
 ![Python](https://img.shields.io/badge/-Python-151A22?style=for-the-badge&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-151A22?style=for-the-badge&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-151A22?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
-### Softwares & Tools :
+### 🔍 Softwares & Tools :
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-151A22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-151A22?style=for-the-badge&logo=eclipse-ide)
 ![Arduino](https://img.shields.io/badge/-Arduino-151A22?style=for-the-badge&logo=Arduino) 
@@ -71,7 +71,7 @@
 ![kivy](https://img.shields.io/badge/kivy-151A22?style=for-the-badge&logo=kivy)
 ![Flet](https://img.shields.io/badge/Flet-151A22?style=for-the-badge&logo=Flet)
 
-### Data Base :
+### 📈 Data Base :
 
 ![MySQL](https://img.shields.io/badge/mysql-151A22?style=for-the-badge&logo=mysql) 
 ![SQLite](https://img.shields.io/badge/sqlite-151A22?style=for-the-badge&logo=sqlite) 
