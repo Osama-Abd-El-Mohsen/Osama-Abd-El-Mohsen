@@ -22,7 +22,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/output/github-contribution-grid-snake.svg">
 </picture>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## 🚀**About me**
 
 ```python
  print("Hello ...  Iam Osama Abd EL Mohsen From Egypt a final year undergraduate from Mansoura University ")
@@ -35,7 +35,7 @@
 :video_game: &nbsp;I like to play video games.\
 :gem: &nbsp;I love to customize everything.
 
-## Content
+## 📃Content
 
 - [👨‍💻 My Skills](https://github.com/Osama-Abd-El-Mohsen#-my-skills)
 - [📄 My Certificates](https://github.com/Osama-Abd-El-Mohsen#--my-certificates--)
