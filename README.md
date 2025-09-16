@@ -12,7 +12,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mechatronics%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3DB54A&vCenter=true&size=22"></a>
 </p> 
 <h1 align="center">
-  AI Robotics Engineer 🤖
+  Backend Engineer 🤖
 </h1>
 
 <!-- ![Snake animation](https://github.com/Osama-Abd-El-Mohsen/Osama-Abd-El-Mohsen/blob/output/github-contribution-grid-snake.svg) -->
@@ -149,6 +149,7 @@
 [![Discord](https://img.shields.io/badge/Discord-151A22?style=for-the-badge&logo=Discord)](https://discordapp.com/users/716301044514029619) 
 [![Facebook](https://img.shields.io/badge/Facebook-151A22?style=for-the-badge&logo=Facebook)](https://facebook.com/o.Abd.ElMohsen)
 [![Github](https://img.shields.io/badge/Github-151A22?style=for-the-badge&logo=Github)](https://facebook.com/o.Abd.ElMohsen)
+
 
 
 
