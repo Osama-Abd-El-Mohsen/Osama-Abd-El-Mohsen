@@ -71,6 +71,7 @@
 ![Custome-tkinter](https://img.shields.io/badge/Custome-tkinter-151A22?style=for-the-badge&logo=Custome-tkinter)
 ![kivy](https://img.shields.io/badge/kivy-151A22?style=for-the-badge&logo=kivy)
 ![Flet](https://img.shields.io/badge/Flet-151A22?style=for-the-badge&logo=Flet)
+![Laravel](https://img.shields.io/badge/Laravel-151A22?style=for-the-badge&logo=Laravel)
 
 ### 📈 Data Base :
 
