@@ -137,8 +137,8 @@
 
 <p align="center">
   <a href="https://github.com/Osama-Abd-El-Mohsen">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Osama-Abd-El-Mohsen&theme=github-dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Osama-Abd-El-Mohsen&layout=compact&langs_count=8&theme=github-dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Osama-Abd-El-Mohsen&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Osama-Abd-El-Mohsen&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
   </a>
 </p>
 
@@ -149,6 +149,7 @@
 [![Discord](https://img.shields.io/badge/Discord-151A22?style=for-the-badge&logo=Discord)](https://discordapp.com/users/716301044514029619) 
 [![Facebook](https://img.shields.io/badge/Facebook-151A22?style=for-the-badge&logo=Facebook)](https://facebook.com/o.Abd.ElMohsen)
 [![Github](https://img.shields.io/badge/Github-151A22?style=for-the-badge&logo=Github)](https://facebook.com/o.Abd.ElMohsen)
+
 
 
 
