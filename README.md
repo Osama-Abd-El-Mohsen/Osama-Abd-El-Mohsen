@@ -149,13 +149,12 @@ class Osama:
 # 🤝 Connect With Me
 
 [![Behance](https://img.shields.io/badge/Behance-151A22?style=for-the-badge\&logo=behance)](https://behance.net/Osama_Abd_ElMoh7sen)
-
 [![Discord](https://img.shields.io/badge/Discord-151A22?style=for-the-badge\&logo=discord)](https://discordapp.com/users/716301044514029619)
-
 [![Facebook](https://img.shields.io/badge/Facebook-151A22?style=for-the-badge\&logo=facebook)](https://facebook.com/o.Abd.ElMohsen)
-
 [![Github](https://img.shields.io/badge/Github-151A22?style=for-the-badge\&logo=github)](https://github.com/Osama-Abd-El-Mohsen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151A22?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osama-abd-el-mohsen)
 
 ---
 
 ⭐ **Always building AI projects and learning something new.**
+
